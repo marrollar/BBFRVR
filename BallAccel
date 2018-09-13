@@ -1,0 +1,8 @@
+a = 3066 pixels/s^2
+v = 3066t - 2164
+
+Time to Peak: 0.6994357031207934 s
+Peak Height: 174.5992187421771 px
+
+848, 476, 3 # Image Size
+240, 719 # Ball Start (x, y)
